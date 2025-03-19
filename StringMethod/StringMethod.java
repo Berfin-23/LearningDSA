@@ -6,7 +6,7 @@ class StringMethod {
         // It returns an int value.
         // Cannot count emojis
         String str = "Hello, World!";
-        int length = str.length(); 
+        int length = str.length();
         System.out.println("THe length of the string is " + length);
 
         // 2) matches() method
